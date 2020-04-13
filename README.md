@@ -1,5 +1,5 @@
 # New-Rep-2
-Hi, humans!!!
+Hi, Humans!!!
 
 I'm Ben
 
